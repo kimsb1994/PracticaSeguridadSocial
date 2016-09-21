@@ -1,6 +1,6 @@
-/**
- * Created by Billy on 16/9/16. ...
- */
+import java.util.ArrayList;
+import java.util.List;
+
 public class SeguridadSocial {
     private List<Persona> personasList;
     public SeguridadSocial() {
